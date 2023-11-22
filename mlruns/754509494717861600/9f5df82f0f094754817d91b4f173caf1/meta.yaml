@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Montoya-MolinaS/Repo/cb_case_study/mlruns/754509494717861600/9f5df82f0f094754817d91b4f173caf1/artifacts
+end_time: 1700643477890
+entry_point_name: ''
+experiment_id: '754509494717861600'
+lifecycle_stage: active
+run_id: 9f5df82f0f094754817d91b4f173caf1
+run_name: run_0
+run_uuid: 9f5df82f0f094754817d91b4f173caf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700643477870
+status: 4
+tags: []
+user_id: Montoya-MolinaS
