@@ -1,4 +1,4 @@
-```markdown
+
 # Optimizing Investment Campaigns: A Data-Driven Approach
 
 ## Project Overview:
@@ -29,4 +29,4 @@ During my comprehensive data science bootcamp, I led a small-group project cente
 - Successfully selected 3,000 clients, contributing to enhanced campaign performance
 - Compared actual and expected metrics for informed decision-making
 - Positioned the project as a strategic blend of technical prowess and business strategy
-```
+
